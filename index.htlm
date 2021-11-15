@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Pablo And\'ujar Guerrero</title>
+  <link rel="stylesheet" href="./Gabriel Conant_files/style.css">
+
+</head>
+
+<body>
+
+ <div id="pagecontent">
+    
+<div style="width:100%; min-width:600px; max-width:1200px; margin-top:20px;">
+
+<div style="width:45%;  min-width:300px; float:left">
+<a href="https://www.osu.edu/"><img src="./Gabriel Conant_files/school.png" style="width:220px" alt=""></a> <br><br><br><br>
+ <h1>Pablo Andújar Guerrero</h1>
+<i>Postdoctoral Fellow</i><br>
+<!--C2.06, DPMMS<br>-->
+The Fields Institute for
+Research in Mathematical Sciences<br><br>
+    <i>pandujar@fields.utoronto.ca</i><br><br>
+    
+</div>
+
+<div style="width:55%; min-width:300px; float:right">
+<img src="./Gabriel Conant_files/pic.png" style="width:230px" alt="">
+</div>
+
+</div>
+
+<div style="clear:both;">
+
+<br>
+
+<div style="font-size:22px; margin-bottom:30px;">
+<a href="link">CV</a>&nbsp;<!--|-->
+<!--<a href="link">Teaching</a>&nbsp;|-->
+<!--<a href="link/#papers">Work</a>&nbsp;|-->
+<!--<a href="link/#thesis">PhD Thesis</a>&nbsp;|-->
+<!--<a href="link#tools">Tools</a>-->
+</div>
+
+<div style="margin-bottom : 30px;">
+<h3>Research Interests</h3>
+I study model theory, an area of mathematical logic, and its interface with topology and combinatorics. In particular I am interested in the following topics. 
+<ul>
+<li> Definable topology and analysis in o-minimal and other tame theories. </li> 
+<li> Types and combinatorics in NIP theories.  </li>
+</ul>
+<p style="font-size: 18px;">
+<a href="adress">Research Statement</a>.<br>
+</p>
+</div>
+
+
+<div style="margin-bottom : 30px;">
+<h3 id="preprints"> Preprints </h3>
+<ul style="line-height:1.3">
+
+<li> <b>Types, transversals and definable compactness in o-minimal structures</b>, 
+<br> submitted, <a href="https://arxiv.org/abs/2111.03802">	arXiv:2111.03802</a>, <a href="https://arxiv.org/pdf/2111.03802.pdf">pdf
+</a></li>
+
+<li> <b> One-dimensional definable topological spaces in o-minimal structures </b>, in preparation. </li>
+
+</ul></div>
+
+<div style="margin-bottom : 30px;">
+<h3 id="papers"> Publications  </h3>
+<ul style="line-height:1.3">
+
+<li> <b>Directed sets and topological spaces definable in o-minimal structures</b>
+<br> 
+Journal of the London Mathematical Society, Second Series, 104 (2021) no. 3, 989-1010
+<span style="font-size:14px">(<a href="https://arxiv.org/abs/1911.06409">arXiv</a>, <a href="https://arxiv.org/pdf/1911.06409.pdf">pdf</a>)</span></li>
+
+</ul></div>
+
+<div style="margin-bottom : 30px;">
+<h3 id="thesis"> Ph.D. Thesis </h3>
+<div style="margin-top:-10px;">
+<i>Definable Topological Spaces in O-minimal Structures</i> (<a href="link">pdf</a>)<br>
+<span style="font-size:10pt">
+Purdue University, 2021<br>
+Advisor: <a href="https://www.math.purdue.edu/~thoma922/">Margaret E. M. Thomas</a></span>
+</div>
+</div>
+
+
+</div> <!--ends clear:both div-->
+
+<br><br><br>
+
+  </div><!---ends pagecontents div-->
+
+
+
+
+
+
+
+</body></html>
