@@ -1,0 +1,119 @@
+body {
+	font-family:Helvetical,Arial,sans-serif;
+	font-size: 100%
+}
+
+h1 {
+}
+
+sup, sub { vertical-align: 0;
+           position: relative; }
+sup { bottom: 1ex; }
+sub { top: 0.8ex; }
+
+a {
+  text-decoration: none;
+  color: #0000cc;
+  }
+ 
+a:hover {
+	text-decoration: underline;
+}
+
+ul{
+  list-style-type: circle;
+}
+
+ul.clean{
+  list-style-type: none;
+}
+
+abbr {
+	border-bottom: 1px dashed #999999;
+}
+
+/* id pagecontent contains the main stuff of the page */
+
+#pagecontent {
+	margin-left: 20px;
+	margin-right:30px;
+	margin-top: 5px;
+	text-align: justify;
+	padding: 4px;
+}
+
+#pagecontent h1 {
+	margin: 0px;
+	padding: 0px;
+}
+
+li{
+    margin-top: 10px;
+}
+
+li:first-child {
+    margin-top:-10px;
+}
+
+
+
+
+/* id menu is the menu on the left side of the screen */
+
+#menu {
+	position:absolute;
+	top: 30px;
+	left:5px;
+	width: 100px;
+	margin:0px;
+	padding:0px;
+	background-color:#ffffff;
+}
+
+#menu ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 2px;
+}
+
+#menu ul ul {
+  list-style-position: inside;
+}
+
+#menu a {
+	display: block;
+	text-decoration: none;
+	width: 80px;
+	margin: 2px;
+	background: #ccffff;
+    border: 1px solid #ccffff;
+}
+
+#menu a:hover{background: #ffffff;}
+
+.inline {
+    display: inline;
+}
+
+p.little {
+  font-size: .75em;
+  display: inline;
+}
+
+p.nonlink{
+    width: 80px;
+    margin: 2px;
+    border: 1px solid #ccffff;
+}
+
+.supsub {
+   display: inline-block;
+   margin: -9em 0;
+   vertical-align: -0.45em;
+   line-height: .9em;
+   font-size: 70%;
+   text-align: left;
+}
+
+.hidden { display: none; }
+ .unhidden { display: block; }
